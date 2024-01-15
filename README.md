@@ -5,7 +5,7 @@ Cours offert à Polytechnique Montréal aux trimestres d'automne d'hiver.
 
 - Crédits : 3
 - Triplet horaire : 4 - 2 - 3
-- Site web : [Moodle](moodle.polymtl.ca)
+- Site web : [Moodle](https://moodle.polymtl.ca/)
 
 ## Description du cours
 
